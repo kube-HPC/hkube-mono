@@ -10,3 +10,6 @@
 [submodule "services/trigger-service"]
 	path = services/trigger-service
 	url = git@github.com:kube-HPC/trigger-service.git
+[submodule "services/algorithm-operator"]
+	path = services/algorithm-operator
+	url = git@github.com:kube-HPC/algorithm-operator.git
