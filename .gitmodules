@@ -1,0 +1,3 @@
+[submodule "services/api-server"]
+	path = services/api-server
+	url = git@github.com:kube-HPC/api-server.git
