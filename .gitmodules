@@ -4,3 +4,6 @@
 [submodule "services/pipeline-driver"]
 	path = services/pipeline-driver
 	url = git@github.com:kube-HPC/pipeline-driver.git
+[submodule "services/algorithm-queue"]
+	path = services/algorithm-queue
+	url = git@github.com:kube-HPC/algorithm-queue.git
