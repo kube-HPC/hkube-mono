@@ -13,3 +13,6 @@
 [submodule "services/algorithm-operator"]
 	path = services/algorithm-operator
 	url = git@github.com:kube-HPC/algorithm-operator.git
+[submodule "services/task-executor"]
+	path = services/task-executor
+	url = git@github.com:kube-HPC/task-executor.git
