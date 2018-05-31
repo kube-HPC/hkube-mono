@@ -7,3 +7,6 @@
 [submodule "services/algorithm-queue"]
 	path = services/algorithm-queue
 	url = git@github.com:kube-HPC/algorithm-queue.git
+[submodule "services/trigger-service"]
+	path = services/trigger-service
+	url = git@github.com:kube-HPC/trigger-service.git
