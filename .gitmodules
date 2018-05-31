@@ -1,3 +1,6 @@
 [submodule "services/api-server"]
 	path = services/api-server
 	url = git@github.com:kube-HPC/api-server.git
+[submodule "services/pipeline-driver"]
+	path = services/pipeline-driver
+	url = git@github.com:kube-HPC/pipeline-driver.git
